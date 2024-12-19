@@ -19,7 +19,7 @@ Welcome to **PlayLab.AI** – an advanced Artificial Intelligence designed to pl
 To get started, simply clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/playlab.ai.git
+git clone https://github.com/playlab-dev/playlab.ai.git
 cd playlab.ai
 pip install -r requirements.txt
 ```
