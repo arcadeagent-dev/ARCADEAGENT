@@ -1,15 +1,15 @@
 
-# PlayLab.AI
+# PLAYLAB
 
-Welcome to **PlayLab.AI** – an advanced Artificial Intelligence designed to play your favorite games for you! Built with Python, PlayLab.AI is capable of analyzing, strategizing, and mastering a wide variety of games, from simple puzzles to complex simulations.
+Welcome to **PLAYLAB** – an advanced Artificial Intelligence designed to play your favorite games for you! Built with Python, PlayLab.AI is capable of analyzing, strategizing, and mastering a wide variety of games, from simple puzzles to complex simulations.
 
 ---
 
 ## Features
 
-- **Game Mastery**: PlayLab.AI can learn and play games autonomously, mastering game mechanics, and optimizing strategies.
-- **Adaptive Learning**: With every move, PlayLab.AI refines its strategies, ensuring better performance with time.
-- **Multi-Game Support**: Whether it’s board games, video games, or simulation games, PlayLab.AI can handle various types.
+- **Game Mastery**: PLAYLAB can learn and play games autonomously, mastering game mechanics, and optimizing strategies.
+- **Adaptive Learning**: With every move, PLAYLAB refines its strategies, ensuring better performance with time.
+- **Multi-Game Support**: Whether it’s board games, video games, or simulation games, PLAYLAB can handle various types.
 - **Customizable Profiles**: Tailor the AI to suit specific game styles, difficulty levels, or preferences.
 
 ---
@@ -19,8 +19,8 @@ Welcome to **PlayLab.AI** – an advanced Artificial Intelligence designed to pl
 To get started, simply clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/playlab-dev/playlab.ai.git
-cd playlab.ai
+git clone https://github.com/playlab-dev/playlab.git
+cd playlab
 pip install -r requirements.txt
 ```
 
@@ -28,21 +28,21 @@ pip install -r requirements.txt
 
 ## Usage
 
-Once installed, running PlayLab.AI in any game is simple. Use the provided command line interface (CLI) or integrate it with your favorite games.
+Once installed, running PLAYLAB in any game is simple. Use the provided command line interface (CLI) or integrate it with your favorite games.
 
-To run PlayLab.AI:
+To run PLAYLAB:
 
 ```bash
-python playlab_ai.py --game <game_name> --difficulty <level>
+python playlab.py --game <game_name> --difficulty <level>
 ```
 
 Where:
-- `<game_name>` is the name of the game you want PlayLab.AI to play.
+- `<game_name>` is the name of the game you want PLAYLAB to play.
 - `<level>` specifies the difficulty setting (e.g., `easy`, `medium`, `hard`).
 
 For example:
 ```bash
-python playlab_ai.py --game "Chess" --difficulty "hard"
+python main.py --game "Chess" --difficulty "hard"
 ```
 
 ---
@@ -60,7 +60,7 @@ The AI uses reinforcement learning techniques to adapt its strategies over time.
 
 ## Contributing
 
-We welcome contributions! If you’d like to improve PlayLab.AI or add new features, feel free to open an issue or create a pull request.
+We welcome contributions! If you’d like to improve PLAYLAB or add new features, feel free to open an issue or create a pull request.
 
 ---
 
@@ -76,25 +76,25 @@ We welcome contributions! If you’d like to improve PlayLab.AI or add new featu
 
 ## License
 
-PlayLab.AI is open-source software licensed under the MIT License.
+PLAYLAB is open-source software licensed under the MIT License.
 
 ---
 
 ## FAQ
 
-Q: Can I train PlayLab.AI on my own games?
-A: Yes! PlayLab.AI is highly adaptable. You can train it on your own game by providing it with game logic and interaction functions.
+Q: Can I train PLAYLAB on my own games?
+A: Yes! PLAYLAB is highly adaptable. You can train it on your own game by providing it with game logic and interaction functions.
 
-Q: How does PlayLab.AI learn?
-A: PlayLab.AI uses reinforcement learning to continually improve its gameplay. It evaluates its actions based on a reward system to determine the best moves over time.
+Q: How does PLAYLAB learn?
+A: PLAYLAB uses reinforcement learning to continually improve its gameplay. It evaluates its actions based on a reward system to determine the best moves over time.
 
-Q: Can I play multiplayer games with PlayLab.AI?
-A: Currently, PlayLab.AI is designed to play solo games. However, multiplayer functionality is in the works!
+Q: Can I play multiplayer games with PLAYLAB?
+A: Currently, PLAYLAB is designed to play solo games. However, multiplayer functionality is in the works!
 
 ---
 
 ## Acknowledgments
 
-Special thanks to the contributors and the open-source community for making this project possible. PlayLab.AI continues to evolve with the support of innovative minds like yours!
+Special thanks to the contributors and the open-source community for making this project possible. PLAYLAB continues to evolve with the support of innovative minds like yours!
 
 
