@@ -1,15 +1,15 @@
 
-# GAMEAGENT
+# PLAYAGENT
 
-Welcome to **GAMEAGENT** – an advanced Artificial Intelligence designed to play your favorite games for you! Built with Python, GAMEAGENT.AI is capable of analyzing, strategizing, and mastering a wide variety of games, from simple puzzles to complex simulations.
+Welcome to **PLAYAGENT** – an advanced Artificial Intelligence designed to play your favorite games for you! Built with Python, PLAYAGENT.AI is capable of analyzing, strategizing, and mastering a wide variety of games, from simple puzzles to complex simulations.
 
 ---
 
 ## Features
 
-- **Game Mastery**: GAMEAGENT can learn and play games autonomously, mastering game mechanics, and optimizing strategies.
+- **Game Mastery**: PLAYAGENT can learn and play games autonomously, mastering game mechanics, and optimizing strategies.
 - **Adaptive Learning**: With every move, PLAYLAB refines its strategies, ensuring better performance with time.
-- **Multi-Game Support**: Whether it’s board games, video games, or simulation games, GAMEAGENT can handle various types.
+- **Multi-Game Support**: Whether it’s board games, video games, or simulation games, PLAYAGENT can handle various types.
 - **Customizable Profiles**: Tailor the AI to suit specific game styles, difficulty levels, or preferences.
 
 ---
@@ -19,7 +19,7 @@ Welcome to **GAMEAGENT** – an advanced Artificial Intelligence designed to pla
 To get started, simply clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/playlab-dev/gameagent.git
+git clone https://github.com/playagent-dev/gameagent.git
 cd gameagent
 pip install -r requirements.txt
 ```
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Once installed, running GAMEAGENT in any game is simple. Use the provided command line interface (CLI) or integrate it with your favorite games.
+Once installed, running PLAYAGENT in any game is simple. Use the provided command line interface (CLI) or integrate it with your favorite games.
 
 To run PLAYLAB:
 
@@ -37,7 +37,7 @@ python gameagent.py --game <game_name> --difficulty <level>
 ```
 
 Where:
-- `<game_name>` is the name of the game you want GAMEAGENT to play.
+- `<game_name>` is the name of the game you want PLAYAGENT to play.
 - `<level>` specifies the difficulty setting (e.g., `easy`, `medium`, `hard`).
 
 For example:
@@ -48,7 +48,7 @@ python main.py --game "Chess" --difficulty "hard"
 ---
 
 ## Technical Details
-GAMEAGENT.AI is built using Python and leverages several powerful libraries for AI and game simulation:
+PLAYAGENT.AI is built using Python and leverages several powerful libraries for AI and game simulation:
 
 TensorFlow/PyTorch: For machine learning and neural network-based decision-making.
 OpenCV: Used for visual recognition and pixel-based analysis in games with graphical interfaces.
@@ -60,7 +60,7 @@ The AI uses reinforcement learning techniques to adapt its strategies over time.
 
 ## Contributing
 
-We welcome contributions! If you’d like to improve GAMEAGENT or add new features, feel free to open an issue or create a pull request.
+We welcome contributions! If you’d like to improve PLAYAGENT or add new features, feel free to open an issue or create a pull request.
 
 ---
 
@@ -76,25 +76,25 @@ We welcome contributions! If you’d like to improve GAMEAGENT or add new featur
 
 ## License
 
-GAMEAGENT is open-source software licensed under the MIT License.
+PLAYAGENT is open-source software licensed under the MIT License.
 
 ---
 
 ## FAQ
 
-Q: Can I train GAMEAGENT on my own games?
-A: Yes! PLAYLAB is highly adaptable. You can train it on your own game by providing it with game logic and interaction functions.
+Q: Can I train PLAYAGENT on my own games?
+A: Yes! PLAYAGENT is highly adaptable. You can train it on your own game by providing it with game logic and interaction functions.
 
-Q: How does GAMEAGENT learn?
-A: GAMEAGENT uses reinforcement learning to continually improve its gameplay. It evaluates its actions based on a reward system to determine the best moves over time.
+Q: How does PLAYAGENT learn?
+A: PLAYAGENT uses reinforcement learning to continually improve its gameplay. It evaluates its actions based on a reward system to determine the best moves over time.
 
-Q: Can I play multiplayer games with GAMEAGENT?
-A: Currently, GAMEAGENT is designed to play solo games. However, multiplayer functionality is in the works!
+Q: Can I play multiplayer games with PLAYAGENT?
+A: Currently, PLAYAGENT is designed to play solo games. However, multiplayer functionality is in the works!
 
 ---
 
 ## Acknowledgments
 
-Special thanks to the contributors and the open-source community for making this project possible. GAMEAGENT continues to evolve with the support of innovative minds like yours!
+Special thanks to the contributors and the open-source community for making this project possible. PLAYAGENT continues to evolve with the support of innovative minds like yours!
 
 
