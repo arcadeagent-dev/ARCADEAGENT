@@ -20,7 +20,7 @@ from torch import Tensor
 from torch.optim.optimizer import Optimizer
 
 
-class Adan(Optimizer):
+class Op1(Optimizer):
     """
     Implements a pytorch variant of Adan
     Adan was proposed in
