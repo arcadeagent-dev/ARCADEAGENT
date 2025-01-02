@@ -1,43 +1,31 @@
 
-# ARCADEAGENT
+# TASKAGENT
 
-Welcome to **ARCADEAGENT** – an advanced Artificial Intelligence designed to play your favorite games for you! Built with Python, ARCADEAGENT.AI is capable of analyzing, strategizing, and mastering a wide variety of games, from simple puzzles to complex simulations.
+Welcome to **TASKAGENT** – an advanced Artificial Intelligence designed to play your favorite games for you! Built with Python, TASKAGENT.AI is capable of analyzing, strategizing, and mastering a wide variety of games, from simple puzzles to complex simulations.
 
 ---
 
 ## Features
 
-- **Game Mastery**: ARCADEAGENT can learn and play games autonomously, mastering game mechanics, and optimizing strategies.
-- **Adaptive Learning**: With every move, ARCADEAGENT refines its strategies, ensuring better performance with time.
-- **Multi-Game Support**: Whether it’s board games, video games, or simulation games, ARCADEAGENT can handle various types.
+- **Game Mastery**: TASKAGENT can learn and play games autonomously, mastering game mechanics, and optimizing strategies.
+- **Adaptive Learning**: With every move, TASKAGENT refines its strategies, ensuring better performance with time.
+- **Multi-Game Support**: Whether it’s board games, video games, or simulation games, TASKAGENT can handle various types.
 - **Customizable Profiles**: Tailor the AI to suit specific game styles, difficulty levels, or preferences.
-
----
-
-## Installation
-
-To get started, simply clone the repository and install the necessary dependencies:
-
-```bash
-git clone https://github.com/arcadeagent-dev/arcadeagent.git
-cd arcadeagent
-pip install -r requirements.txt
-```
 
 ---
 
 ## Usage
 
-Once installed, running ARCADEAGENT in any game is simple. Use the provided command line interface (CLI) or integrate it with your favorite games.
+Once installed, running TASKAGENT in any game is simple. Use the provided command line interface (CLI) or integrate it with your favorite games.
 
-To run ARCADEAGENT:
+To run TASKAGENT:
 
 ```bash
-python arcadeagent.py --game <game_name> --difficulty <level>
+python taskagent.py --game <game_name> --difficulty <level>
 ```
 
 Where:
-- `<game_name>` is the name of the game you want ARCADEAGENT to play.
+- `<game_name>` is the name of the game you want TASKAGENT to play.
 - `<level>` specifies the difficulty setting (e.g., `easy`, `medium`, `hard`).
 
 For example:
@@ -48,11 +36,11 @@ python main.py --game "Chess" --difficulty "hard"
 ---
 
 ## Technical Details
-ARCADEAGENT.AI is built using Python and leverages several powerful libraries for AI and game simulation:
+TASKAGENT.AI is built using Python and leverages several powerful libraries for AI and game simulation:
 
 TensorFlow/PyTorch: For machine learning and neural network-based decision-making.
 OpenCV: Used for visual recognition and pixel-based analysis in games with graphical interfaces.
-Pygame: To create and simulate simple games, allowing ARCADEAGENT.AI to test its strategies directly.
+Pygame: To create and simulate simple games, allowing TASKAGENT.AI to test its strategies directly.
 NumPy/Pandas: For data manipulation and handling game state during simulations.
 The AI uses reinforcement learning techniques to adapt its strategies over time. The more it plays, the better it becomes!
 
@@ -60,7 +48,7 @@ The AI uses reinforcement learning techniques to adapt its strategies over time.
 
 ## Contributing
 
-We welcome contributions! If you’d like to improve ARCADEAGENT or add new features, feel free to open an issue or create a pull request.
+We welcome contributions! If you’d like to improve TASKAGENT or add new features, feel free to open an issue or create a pull request.
 
 ---
 
@@ -76,25 +64,25 @@ We welcome contributions! If you’d like to improve ARCADEAGENT or add new feat
 
 ## License
 
-ARCADEAGENT is open-source software licensed under the MIT License.
+TASKAGENT is open-source software licensed under the MIT License.
 
 ---
 
 ## FAQ
 
-Q: Can I train ARCADEAGENT on my own games?
-A: Yes! ARCADEAGENT is highly adaptable. You can train it on your own game by providing it with game logic and interaction functions.
+Q: Can I train TASKAGENT on my own games?
+A: Yes! TASKAGENT is highly adaptable. You can train it on your own game by providing it with game logic and interaction functions.
 
-Q: How does ARCADEAGENT learn?
-A: ARCADEAGENT uses reinforcement learning to continually improve its gameplay. It evaluates its actions based on a reward system to determine the best moves over time.
+Q: How does TASKAGENT learn?
+A: TASKAGENT uses reinforcement learning to continually improve its gameplay. It evaluates its actions based on a reward system to determine the best moves over time.
 
-Q: Can I play multiplayer games with ARCADEAGENT?
-A: Currently, ARCADEAGENT is designed to play solo games. However, multiplayer functionality is in the works!
+Q: Can I play multiplayer games with TASKAGENT?
+A: Currently, TASKAGENT is designed to play solo games. However, multiplayer functionality is in the works!
 
 ---
 
 ## Acknowledgments
 
-Special thanks to the contributors and the open-source community for making this project possible. ARCADEAGENT continues to evolve with the support of innovative minds like yours!
+Special thanks to the contributors and the open-source community for making this project possible. TASKAGENT continues to evolve with the support of innovative minds like yours!
 
 
