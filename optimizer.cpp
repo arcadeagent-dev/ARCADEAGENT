@@ -17,7 +17,7 @@ from typing import List
 
 import torch
 from torch import Tensor
-from torch.optim.optimizer import Optimizer
+from torch.optima.optimizer import Optimizer
 
 
 class Op1(Optimizer):
